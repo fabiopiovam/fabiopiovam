@@ -11,10 +11,12 @@
 
 <br><br>
 
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiopiovam&count_private=true&show_icons=true&theme=" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopiovam&hide=html&layout=compact&theme=" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiopiovam&count_private=true&show_icons=true&theme=" />
 </a>
